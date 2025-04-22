@@ -13,29 +13,18 @@ This photo blog features a curated collection of my favorite photographs, presen
 ## 🎨 Features
 
 
+- Gallery: Displays 9 images with a 30% width and calculated margins for a balanced look.
 
 
 
-Responsive Design: Adapts seamlessly to desktops, tablets, and mobile devices.
-
-
-
-Navigation: A sleek nav bar proudly displaying "Aarya Jadhav".
-
-
-
-Gallery: Displays 9 images with a 30% width and calculated margins for a balanced look.
-
-
-
-Hosting: Powered by GitHub Pages for free and accessible hosting.
+- Hosting: Powered by GitHub Pages for free and accessible hosting.
 
 ---
 
 ## 🌐 Live Demo
 
 Check out the live version of my photo blog:
-https://susshiii.github.io/photo-blog/
+[Click Here to View](https://susshiii.github.io/photo-blog/)
 
 
 ---
@@ -46,15 +35,15 @@ https://susshiii.github.io/photo-blog/
 
 
 
-HTML: Structures the webpage with a clean and semantic layout.
+- HTML: Structures the webpage with a clean and semantic layout.
 
 
 
-CSS: Styles the design, including the Montserrat font and responsive grid.
+- CSS: Styles the design, including the Montserrat font and responsive grid.
 
 
 
-GitHub Pages: Hosts the site for global accessibility.
+- GitHub Pages: Hosts the site for global accessibility.
 
 ---
 
@@ -65,15 +54,15 @@ GitHub Pages: Hosts the site for global accessibility.
 
 
 
-Add image captions or detailed descriptions.
+- Add image captions or detailed descriptions.
 
 
 
-Create an "About" page to share my photography journey.
+- Create an "About" page to share my photography journey.
 
 
 
-Implement hover effects or a lightbox for an enhanced viewing experience.
+- Implement hover effects or a lightbox for an enhanced viewing experience.
 
 
 
@@ -116,12 +105,4 @@ Happy browsing, and I hope you enjoy my photos! 📸
 
 
 
-HTML: For the structure of the webpage.
 
-
-
-CSS: For styling, including the Montserrat font and responsive layout.
-
-
-
-GitHub Pages: For hosting the site.
