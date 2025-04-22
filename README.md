@@ -35,7 +35,7 @@ Hosting: Powered by GitHub Pages for free and accessible hosting.
 ## 🌐 Live Demo
 
 Check out the live version of my photo blog:
-[https://your-username.github.io/photo-blog/](https://susshiii.github.io/photo-blog/)](https://susshiii.github.io/photo-blog/)
+https://susshiii.github.io/photo-blog/
 
 
 ---
