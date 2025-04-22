@@ -1,16 +1,16 @@
-#Aarya Jadhav's Photo Blog ✨
+# Aarya Jadhav's Photo Blog ✨
 
 Welcome to my personal photo blog! This project is a showcase of my photography portfolio, crafted with HTML and CSS, and hosted on GitHub Pages for easy access worldwide.
 
 ---
 
-##🚀 Project Overview
+## 🚀 Project Overview
 
 This photo blog features a curated collection of my favorite photographs, presented in a responsive, three-column gallery layout. The design incorporates the elegant Montserrat font and custom CSS styling to create a modern and professional aesthetic.
 
 ---
 
-##🎨 Features
+## 🎨 Features
 
 
 
@@ -32,15 +32,15 @@ Hosting: Powered by GitHub Pages for free and accessible hosting.
 
 ---
 
-##🌐 Live Demo
+## 🌐 Live Demo
 
 Check out the live version of my photo blog:
-https://your-username.github.io/photo-blog/
+[https://your-username.github.io/photo-blog/](https://susshiii.github.io/photo-blog/)](https://susshiii.github.io/photo-blog/)
 
 
 ---
 
-##💻 Technologies Used
+## 💻 Technologies Used
 
 
 
@@ -59,7 +59,7 @@ GitHub Pages: Hosts the site for global accessibility.
 ---
 
 
-##🌱 Future Improvements
+## 🌱 Future Improvements
 
 
 
@@ -81,7 +81,7 @@ Optimize images for faster loading and better performance.
 
 
 
-##📧 Contact
+## 📧 Contact
 
 I’d love to hear your feedback or collaborate! Reach out to me:
 
@@ -97,7 +97,7 @@ GitHub:
 
 
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 
 
