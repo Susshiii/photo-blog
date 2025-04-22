@@ -82,9 +82,6 @@ Email: aaryaj76@gmail.com
 
 
 
-GitHub: 
-
-
 
 ## 🙏 Acknowledgments
 
